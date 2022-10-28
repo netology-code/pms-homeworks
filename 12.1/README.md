@@ -26,7 +26,7 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [Инструкция к установке платформы nanoCAD](https://docs.google.com/presentation/d/1E5cgmdySQHRs7mX5v0GNZqZWmRzVVc3osXE2-queDwk/edit?usp=sharing)
-2. [Пример схемы в формате DWG](https://drive.google.com/file/d/1zj5mtAuKBqQDNmg8P7ZCtpGmSXTFVynr/view?usp=share_link)
+2. [Пример схемы в формате DWG](https://drive.google.com/file/d/1zj5mtAuKBqDNmg8P7ZCtpGmSXTFVynr/view?usp=share_link)
 3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1KtLntCSF0V9zyBNWoTEEDadnIvaHBuqHXCl_wkydmUk/edit?usp=sharing)
 
 
