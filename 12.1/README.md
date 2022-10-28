@@ -37,7 +37,8 @@
 1. Установите платформу nanoCAD, зарегистрируйте её, используя [инструкцию](https://docs.google.com/presentation/d/1E5cgmdySQHRs7mX5v0GNZqZWmRzVVc3osXE2-queDwk/edit?usp=sharing)
 2. Откройте приложенный [файл с примером схемы](https://drive.google.com/file/d/1zj5mtAuKBqQDNmg8P7ZCtpGmSXTFVynr/view?usp=share_link), изучите его.
 3. Замените в приложенном файле схему на данную:
-![ДЗ2](https://user-images.githubusercontent.com/96433973/198686215-771db847-da7d-4a28-a393-5a59210d7cf3.JPG)  
+
+![image](https://github.com/netology-code/pms-homeworks/blob/main/12.1/S%D1%81heme.png)
 
 Примечание: *3D-элементы покажите, как прямоугольники*.
 
