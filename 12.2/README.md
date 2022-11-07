@@ -36,7 +36,8 @@
 
 1. [Инструкция к установке платформы nanoCAD](https://docs.google.com/presentation/d/1E5cgmdySQHRs7mX5v0GNZqZWmRzVVc3osXE2-queDwk/edit?usp=sharing)
 2. [Пример схемы в формате DWG](https://drive.google.com/file/d/1pml4q9ctkfRTN2G0l2V1JLnELWAyIbx5/view?usp=share_link)
-3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1xRLlRomMaYRjLlocALsG6GSXGeddu9tJww6oAWaeJoY/edit?usp=sharing)
+3. [Инструкция по печати, созданию листов и блоков в nanoCAD](https://docs.google.com/presentation/d/1D_wUbTMF7p5oUQcpkfldGPHNkArxwHaTiyzFYeIdIxw/edit?usp=sharing)
+4. [Шаблон для домашнего задания](https://docs.google.com/document/d/1xRLlRomMaYRjLlocALsG6GSXGeddu9tJww6oAWaeJoY/edit?usp=sharing)
 
 ------
 
