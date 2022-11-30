@@ -15,7 +15,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1KtLntCSF0V9zyBNWoTEhttps://docs.google.com/document/d/189iHvryzipjb8cYMdX35cYp4UEQyZ9t-Aru7oSpiZKw/edit?usp=sharing) себе на Google Диск.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/189iHvryzipjb8cYMdX35cYp4UEQyZ9t-Aru7oSpiZKw/edit?usp=sharing) себе на Google Диск.
 1. В названии файла введите корректное название лекции и вашу фамилию и имя.
 1. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 1. Скопируйте текст задания в свой документ.
