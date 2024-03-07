@@ -35,7 +35,7 @@
 ### Задание 1
 
 1. Установите платформу nanoCAD, зарегистрируйте её, используя [инструкцию](https://u.netology.ru/backend/uploads/lms/content_assets/file/5397/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_nanoCAD.pptx)
-2. Откройте приложенный [файл с примером схемы](https://drive.google.com/file/d/1rk7Ffb8Y9XAeJss7syxxEkQ42dt13jIh/view?usp=share_link), изучите его.
+2. Откройте приложенный [файл с примером схемы](https://u.netology.ru/backend/uploads/lms/content_assets/file/5398/C%D1%85%D0%B5%D0%BC%D0%B0_%D0%94%D0%97_%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_CAD.dwg), изучите его.
 3. Замените в приложенном файле схему на данную:
 
 ![image](https://github.com/netology-code/pms-homeworks/blob/main/12.1/S%D1%81heme.png)
