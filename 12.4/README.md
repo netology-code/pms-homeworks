@@ -13,7 +13,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1Uydm4Sg9v8euDd6PSxglip6glAdB_EqsKwdOtF4sz2I/edit?usp=sharing) себе на Google Диск.
+1. Сделайте копию [Шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/1477/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%90%D0%A1%D0%A3_%D0%A2%D0%9F__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диск.
 2. В названии файла введите вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. Скопируйте текст задания в свой документ.
@@ -26,16 +26,16 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Uydm4Sg9v8euDd6PSxglip6glAdB_EqsKwdOtF4sz2I/edit?usp=sharing).
+1. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/1477/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%90%D0%A1%D0%A3_%D0%A2%D0%9F__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx).
 2. Электрические схемы:
-- [электрическая схема фрезерного обрабатывающего центра](https://drive.google.com/file/d/1kC8DQsMakE1Ld8F11lYjDFExULwUD_Mg/view?usp=share_link);
-- [электрическая схема токарно-сверлильного станка](https://drive.google.com/file/d/174Z42JO1gQk_gtRHO0T0nESiUA5pZtYi/view?usp=share_link).
+- [электрическая схема фрезерного обрабатывающего центра](https://u.netology.ru/backend/uploads/lms/content_assets/file/1478/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D1%84%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0.pdf);
+- [электрическая схема токарно-сверлильного станка](https://u.netology.ru/backend/uploads/lms/content_assets/file/1479/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D1%82%D0%BE%D0%BA%D0%B0%D1%80%D0%BD%D0%BE-%D1%81%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B0.pdf).
 
 ------
 
 ### Задание 1
 
-1. Откройте [электрическую схему фрезерного обрабатывающего центра](https://drive.google.com/file/d/1kC8DQsMakE1Ld8F11lYjDFExULwUD_Mg/view?usp=share_link).
+1. Откройте [электрическую схему фрезерного обрабатывающего центра](https://u.netology.ru/backend/uploads/lms/content_assets/file/1478/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D1%84%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0.pdf).
 2. Изучите структурные компоненты и соединения, которые есть на этой схеме.
 3. Дайте ответ на следующие вопросы:
 - Какие интерфейсы используются в данной установке?
@@ -48,7 +48,7 @@
 
 ### Задание 2
 
-1. Откройте [электрическую схему токарно-сверлильного станка](https://drive.google.com/file/d/174Z42JO1gQk_gtRHO0T0nESiUA5pZtYi/view?usp=share_link).
+1. Откройте [электрическую схему токарно-сверлильного станка](https://u.netology.ru/backend/uploads/lms/content_assets/file/1479/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D1%82%D0%BE%D0%BA%D0%B0%D1%80%D0%BD%D0%BE-%D1%81%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B0.pdf).
 2. Изучите структурные компоненты и соединения, которые есть в этой схеме.
 3. Дайте ответ на следующие вопросы:
 - Каким устройством поддерживается температура внутри электрического шкафа данного станка?
